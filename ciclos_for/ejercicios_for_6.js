@@ -1,0 +1,1 @@
+//Recorrido de arreglos: Define un arreglo de nombres y utiliza un bucle para mostrar cada nombre individualmente en la pantalla.

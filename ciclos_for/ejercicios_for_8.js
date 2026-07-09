@@ -1,0 +1,1 @@
+//Salto con continue: Escribe un bucle que cuente del 1 al 10, pero que se salte la impresión del número 5 y continúe con los demás.
